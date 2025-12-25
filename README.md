@@ -6,13 +6,15 @@
   </em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB4OHloam9xNzRuZ3MzcmV1YnYzeno4cGU3MHQ2aWRmbjBuaG5jZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="420" alt="Coding animation">
-</p>
-
 ---
 
 ### 🎓 About Me
+
+<p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxiOTUyd3N1N2hrdHJtNDJoc3Nva3lmb2tkdXd3bnVlcTl5c3dtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"
+       width="180"
+       alt="AI animation">
+</p>
 
 I am an undergraduate **Computer Science** student with strong academic interests in  
 **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
@@ -54,6 +56,7 @@ data structures and algorithmic problem-solving in C++
     I enjoy understanding algorithms deeply and translating theory into clean, structured, and reliable code.
   </em>
 </p>
+
 
 
 ## 🌐 Socials:
