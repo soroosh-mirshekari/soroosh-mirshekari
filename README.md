@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Undergraduate Computer Science Student • Algorithms & Artificial Intelligence
+    Undergraduate Computer Science Student • Algorithms and Artificial Intelligence
   </em>
 </p>
 
@@ -51,10 +51,10 @@ academic and research skills in these areas.
 
 ### 🚀 Current Direction
 
-I am currently preparing for **graduate studies (MSc)** in Computer Science. I am continuing
-to strengthen my foundations in algorithms and artificial intelligence while exploring
-different areas within the field. Through coursework and academic projects, I aim to
-develop the technical depth and analytical skills required for advanced study.
+I am currently focused on strengthening my foundations in algorithms and artificial
+intelligence while exploring different areas within Computer Science. Through coursework
+and academic projects, I aim to develop the technical depth and analytical skills required
+for advanced study.
 
 ---
 
