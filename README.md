@@ -2,8 +2,12 @@
 
 <p align="center">
   <em>
-    Undergraduate Computer Science Student • AI & Machine Learning Enthusiast • Algorithms-Oriented
+    Undergraduate Computer Science Student • AI & Machine Learning • Algorithms
   </em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB4OHloam9xNzRuZ3MzcmV1YnYzeno4cGU3MHQ2aWRmbjBuaG5jZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="420" alt="Coding animation">
 </p>
 
 ---
@@ -25,7 +29,7 @@ I aim to bridge **theoretical understanding** with **practical, rigorous code**.
 ### 🔬 Academic & Technical Interests
 
 - Artificial Intelligence & Machine Learning  
-- Classical ML Models (Decision Trees, SVMs)  
+- Classical Machine Learning Models (Decision Trees, SVMs)  
 - Neural Networks & Optimization Algorithms  
 - Game-Playing AI and Search Algorithms  
 - Data Structures & Algorithms (C++)
@@ -50,6 +54,7 @@ data structures and algorithmic problem-solving in C++
     I enjoy understanding algorithms deeply and translating theory into clean, structured, and reliable code.
   </em>
 </p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soroosh-mirshekari) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/smirshekarii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soroosh.mirshekari@gmail.com) 
