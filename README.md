@@ -88,8 +88,10 @@ for advanced study.
 ---
 
 ## 📊 GitHub Activity
+![](https://github-readme-stats.vercel.app/api?username=soroosh-mirshekari&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=soroosh-mirshekari&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh-mirshekari&theme=omni&hide_border=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=soroosh-mirshekari&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=soroosh-mirshekari&theme=omni&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soroosh-mirshekari&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
