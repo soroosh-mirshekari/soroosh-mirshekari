@@ -14,8 +14,7 @@
 <tr>
 <td width="75%">
 
-I am an undergraduate **Computer Science** student with strong academic interests in  
-**Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
+I am an undergraduate **Computer Science** student with strong academic interests in **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
 
 My work focuses on **implementing algorithms from first principles**, emphasizing:
 - correctness and efficiency  
