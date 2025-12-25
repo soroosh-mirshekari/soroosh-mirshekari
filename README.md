@@ -1,6 +1,55 @@
-# 💫 About Me:
-🔭 **Current Focus**  <br>Developing academically oriented projects in Artificial Intelligence and Machine Learning, with an emphasis on algorithmic understanding, model behavior, and reproducible implementations.<br><br>👯 **Collaboration Interests**  <br>Interested in collaborating on AI/ML projects, algorithmic implementations, and research-inspired software systems, particularly those aligned with coursework or early-stage research.<br><br>🤝 **Looking for Guidance On**  <br>Research-oriented project design, improving experimental methodology, and preparing strong applications for graduate studies in Computer Science and Artificial Intelligence.<br><br>🌱 **Currently Learning**  <br>Advanced machine learning concepts, neural networks, optimization techniques, and core data structures and algorithms, with focus on theoretical foundations and practical implementation.<br><br>💬 **Ask Me About**  <br>Artificial Intelligence fundamentals, classical machine learning models (Decision Trees, SVMs), neural networks, genetic algorithms, game-playing AI, and data structures implemented in C++.<br><br>⚡ **Personal Note**  <br>I enjoy understanding algorithms from first principles and translating theoretical ideas into clear, well-structured, and well-documented code.<br>
+<h1 align="center">Hi, I’m Soroosh 👋</h1>
 
+<p align="center">
+  <em>
+    Undergraduate Computer Science Student • AI & Machine Learning Enthusiast • Algorithms-Oriented
+  </em>
+</p>
+
+---
+
+### 🎓 About Me
+
+I am an undergraduate **Computer Science** student with strong academic interests in  
+**Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
+
+My work focuses on **implementing algorithms from first principles**, emphasizing:
+- correctness and efficiency  
+- clear system design  
+- reproducible, well-documented implementations  
+
+I aim to bridge **theoretical understanding** with **practical, rigorous code**.
+
+---
+
+### 🔬 Academic & Technical Interests
+
+- Artificial Intelligence & Machine Learning  
+- Classical ML Models (Decision Trees, SVMs)  
+- Neural Networks & Optimization Algorithms  
+- Game-Playing AI and Search Algorithms  
+- Data Structures & Algorithms (C++)
+
+---
+
+### 🚀 Current Direction
+
+I am actively preparing for **research-oriented graduate studies (MSc / PhD)** and use this GitHub space to document my academic projects, coursework, and technical growth.
+
+---
+
+### 💬 Let’s Talk About
+
+AI fundamentals • machine learning algorithms • neural networks • evolutionary algorithms •  
+data structures and algorithmic problem-solving in C++
+
+---
+
+<p align="center">
+  <em>
+    I enjoy understanding algorithms deeply and translating theory into clean, structured, and reliable code.
+  </em>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soroosh-mirshekari) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/smirshekarii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soroosh.mirshekari@gmail.com) 
