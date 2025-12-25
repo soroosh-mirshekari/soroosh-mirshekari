@@ -10,11 +10,9 @@
 
 ### 🎓 About Me
 
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxiOTUyd3N1N2hrdHJtNDJoc3Nva3lmb2tkdXd3bnVlcTl5c3dtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"
-       width="180"
-       alt="AI animation">
-</p>
+<table>
+<tr>
+<td width="75%">
 
 I am an undergraduate **Computer Science** student with strong academic interests in  
 **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
@@ -25,6 +23,17 @@ My work focuses on **implementing algorithms from first principles**, emphasizin
 - reproducible, well-documented implementations  
 
 I aim to bridge **theoretical understanding** with **practical, rigorous code**.
+
+</td>
+<td width="25%" align="right">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxiOTUyd3N1N2hrdHJtNDJoc3Nva3lmb2tkdXd3bnVlcTl5c3dtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"
+     width="160"
+     alt="AI animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
